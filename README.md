@@ -1,7 +1,7 @@
 # afi-ud1-identificar
 Carlos Luis Ramos García
 
-Primera actividad Análisis Forense Informático: Identificar antes de tocar
+Identificar antes de tocar
 
 **[Comparativa](https://github.com/carlosra0098/afi-ud1-identificar/blob/main/comparativa.md)**
 
